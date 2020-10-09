@@ -1,2 +1,2 @@
 # miniFlaskProject
-develop a flask server which brows a csv.
+develop a flask server which brows a csv file.
